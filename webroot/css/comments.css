@@ -1,0 +1,31 @@
+.commentHeader{
+
+width: 80%;
+font-size: 18px;
+
+}
+.commentIcon
+{
+float: left;
+width: 5%;
+}
+
+.commentContent
+{
+margin-left: 5%;
+float: left;
+font-size: 14px;
+font-family: verdana;
+width: 75%;
+}
+
+.commentAction{
+float: left;
+width: 15%;
+}
+
+.commentRow{
+overflow: auto;
+margin-bottom: 3%;
+}
+
